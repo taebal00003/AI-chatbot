@@ -1,3 +1,1 @@
-# projects
-
-print(hello)
+0416 인공지능서비스개발 RAG 챗봇 만들기 실습
